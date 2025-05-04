@@ -1,0 +1,20 @@
+[project]
+name = "rescore09"                     
+version = "1.0.0"
+description = "My own custom library to help with my projects."
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}              
+authors = [
+  { name = "rescore09", email = "admin@rescore.lol" }
+]
+
+[project.urls]
+Homepage = "https://github.com/rescore09/rescore"
+
+[tool.setuptools]
+packages = ["rescore09"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
