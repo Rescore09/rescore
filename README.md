@@ -15,7 +15,7 @@ A lightweight Python utility library for everyday tasks — including config loa
 
 ## 📦 Installation
 
-Install via pip (after publishing to PyPI):
+Install via pip:
 
 ```bash
 pip install rescore09
